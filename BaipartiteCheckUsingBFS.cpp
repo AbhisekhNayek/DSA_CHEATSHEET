@@ -87,3 +87,4 @@ bool isGraphBirpatite(vector<vector<int>> &edges) {
        }
 
        return  true;
+}
